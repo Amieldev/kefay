@@ -1,4 +1,4 @@
-# MelaPay
+# Kefay
 
 Verify payment screenshots instantly
 

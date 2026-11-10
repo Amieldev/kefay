@@ -9,6 +9,6 @@ export default interface Transaction {
     receiverName: string;
     amount: number;
     date: string;
-    checkBirrID: string;
+    kefayID: string;
   };
 }

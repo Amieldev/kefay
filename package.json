@@ -1,5 +1,5 @@
 {
-  "name": "checkbirr",
+  "name": "Kefay",
   "version": "0.0.2",
   "description": "Automatic payment verification for Ethiopian bank receipts",
   "main": "dist/index.js",
@@ -13,7 +13,7 @@
   },
   "keywords": [
     "birr",
-    "checkbirr",
+    "Kefay",
     "verification",
     "payment",
     "payment-verification",
@@ -25,7 +25,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Amieldev/checkbirr"
+    "url": "https://github.com/Amieldev/Kefay"
   },
   "dependencies": {
     "jimp": "^1.6.1",

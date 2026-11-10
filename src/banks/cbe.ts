@@ -33,7 +33,7 @@ export default async function checkCBE(
 
   await browser.close();
 
-  const checkBirrID = hash(bank, referenceNumber);
+  const kefayID = hash(bank, referenceNumber);
   let verified = false;
 
   for (let i = 0; i < receipt.receiverAccounts.length; i++) {
@@ -60,7 +60,7 @@ export default async function checkCBE(
       date,
       referenceNumber,
       amount,
-      checkBirrID,
+      kefayID,
     },
   };
 

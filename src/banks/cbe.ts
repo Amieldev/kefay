@@ -51,7 +51,7 @@ export default async function checkCBE(
 
   const transaction: Transaction = {
     verified,
-    transaction: {
+    details: {
       bank,
       senderName,
       senderAccountNumber,

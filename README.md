@@ -44,7 +44,7 @@ main();
 {
     verified:true,
     kefayID:"89sad78f0a9d8f0a9d8f",
-	  transactionDetails:{
+	  details:{
 	    bank:"CBE",
 	    senderName:"Rip Van Winkle",
 	    senderAccountNumber:"1000*****",
